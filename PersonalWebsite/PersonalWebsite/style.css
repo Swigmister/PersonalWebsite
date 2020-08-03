@@ -1,0 +1,107 @@
+/* Parth Desai */
+/* I worked on the homework assignment alone, using only this semester's course materials. */
+
+body {
+    color:black;
+    background:#ffff77
+  }
+  h1 {
+    text-align:center;
+    font-family:Impact;
+    font-size:100px;
+  }
+  p {
+    font-family:Impact;
+    padding-left:325px;
+    padding-right:325px;
+    text-align:center;
+    font-size:50px;
+  }
+  #ACT {
+    float:left;
+
+  }
+  #PBJ {
+    float:left;
+    padding-left:300px;
+  }
+  #EMR {
+    float:right;
+    
+  }
+  #navbar {
+    color:black;
+    text-align:center;
+    font-family:Impact;
+    font-size:30px;
+  }
+  
+  ol {
+    font-family:Impact;
+    padding-left:325px;
+    padding-right:325px;
+    text-align:center;
+    font-size:40px;
+    color:black;
+    
+  }
+  
+  .hobbies {
+    font-family:Impact;
+    text-align:center;
+    font-size:40px;
+    text-decoration:underline;
+    color:black;
+  }
+  
+  hr {
+    border-width: 5px;
+    border-color:black;
+  }
+  
+  table,th,tr,td {
+    font-family:Impact;  
+    text-align:center;
+    font-size:30px;
+    color:black;
+    border: 1px solid black;
+    border-collapse:collapse;
+    padding:10px;
+    margin-left:18%; 
+    margin-right:15%;
+  }
+  
+  .links {
+    font-family:Impact;
+    text-align:center;
+    font-size:40px;
+    color:black;
+  }
+  
+   #fort {
+    float:left;
+    padding-left:420px;
+  }
+  
+  a {
+    color:red !important;
+    text-decoration:none;
+  }
+  a:hover {
+    text-decoration:underline;
+  }
+  
+  a:active {
+    color:blue !important;
+    font-family:helvetica;
+  }
+  
+  a:visited {
+    color:black !important;
+  }
+
+  form {
+    font-family:Impact;
+    text-align:center;
+    font-size:30px;
+  }
